@@ -1,0 +1,24 @@
+Last login: Thu Oct 29 19:28:08 on ttys004
+poputli@MacBook-Air-Virginia-2 ~ % git clone https://github.com/poputli/baobab.git
+Cloning into 'baobab'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+poputli@MacBook-Air-Virginia-2 ~ % 
+poputli@MacBook-Air-Virginia-2 ~ % cd baobab
+poputli@MacBook-Air-Virginia-2 baobab % cd baobab
+cd: no such file or directory: baobab
+poputli@MacBook-Air-Virginia-2 baobab % ифщифи
+zsh: command not found: ифщифи
+poputli@MacBook-Air-Virginia-2 baobab % baobab
+zsh: command not found: baobab
+poputli@MacBook-Air-Virginia-2 baobab % cd desktop
+cd: no such file or directory: desktop
+poputli@MacBook-Air-Virginia-2 baobab % cd baobab
+cd: no such file or directory: baobab
+poputli@MacBook-Air-Virginia-2 baobab % 
+
+Программа «Hello, world!» — это самая простая компьютерная программа, которая выводит на экран текст «Hello, world!» (в переводе с английского — «Здравствуй, мир!»)
+
+
